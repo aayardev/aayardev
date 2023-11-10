@@ -6,8 +6,8 @@
 - 💬 Ask me about **Django,Nextjs and Reactjs**
 
 - 📫 How to reach me:
-       Email : aayar.ismail@gmail.com
-       Linkedin : AAYAR Ismail
+       <p>Email : aayar.ismail@gmail.com </p>
+        <p>Linkedin : AAYAR Ismail</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
