@@ -5,12 +5,16 @@
 
 - 💬 Ask me about **Django,Nextjs and Reactjs**
 
-- 📫 How to reach me:
+
        <p>Email : aayar.ismail@gmail.com </p>
         <p>Linkedin : AAYAR Ismail</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">- 📫 How to reach me:</h3>
 <p align="left">
+       Email : aayar.ismail@gmail.com
+</p>
+<p align="left">
+      Linkedin : AAYAR Ismail
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
